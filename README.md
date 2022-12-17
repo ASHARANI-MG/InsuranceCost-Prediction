@@ -10,8 +10,7 @@ Pyqt5 is used for frontend
 
 Dataset-insurance.csv
 
-Dataset includes
-
+Dataset includes-
 age: age of primary beneficiary
 
 sex: insurance contractor gender, female, male
