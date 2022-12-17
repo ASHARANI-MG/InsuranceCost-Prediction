@@ -6,7 +6,7 @@ Insurance prediction using Multiple Linear Regression
 
 The project is developed using multiple linear regression algorithm
 
-Pyqt5 is used for frontend
+Pyqt5 is used for frontend and jupyter notebook to run the code
 
 Dataset-insurance.csv
 
